@@ -1,0 +1,89 @@
+body {
+  color: #40514e;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+}
+.nav {
+  list-style: none;
+  display: inline;
+  text-align: left;
+}
+
+h1 {
+  color: #f0fafa;
+  font-family: "Sacramento", cursive;
+  font-size: 5rem;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #021518;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 90px;
+}
+
+.middle-container {
+  margin: 250px 0;
+}
+
+/* Bilder */
+
+a {
+  color: #273db4;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+
+#avatar {
+  margin-top: 20px;
+  width: 15%;
+}
+.alger {
+  width: 70%;
+  margin: 100px auto 100px auto;
+}
+
+.img-1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.info-text {
+  width: 30%;
+  margin: auto;
+}
+hr {
+  color: #273db4;
+}
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #1a1d1d;
+  padding: 50px 0 20px;
+}
+
+.button {
+  background-color: #4c66af;
+  color: white;
+  padding: 15px 32px;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.copy {
+  color: #eaf6f6;
+  font-size: 1rem;
+  padding: 20px 0;
+}
